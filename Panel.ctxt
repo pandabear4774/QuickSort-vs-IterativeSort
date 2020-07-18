@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Panel
+comment1.params=x\ y
+comment1.target=Panel(int,\ int)
+comment2.params=
+comment2.target=void\ slowSort()
+comment3.params=low\ high
+comment3.target=void\ partition(int,\ int)
+comment4.params=
+comment4.target=void\ beadSort()
+comment5.params=ev
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=algoName\ index1
+comment6.target=void\ algoComplete(java.lang.String,\ int)
+comment7.params=
+comment7.target=void\ setRectangles()
+comment8.params=g
+comment8.target=void\ paint(java.awt.Graphics)
+numComments=9
